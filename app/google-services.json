@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "374854207302",
+    "firebase_url": "https://cbitbustracker.firebaseio.com",
+    "project_id": "cbitbustracker",
+    "storage_bucket": "cbitbustracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374854207302:android:437b262d16f0f1eb",
+        "android_client_info": {
+          "package_name": "com.example.prana.cbitbustracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374854207302-uf2ag8gr6q19khse5154orghtemrjd4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prana.cbitbustracker",
+            "certificate_hash": "0286b80eaeb79634523f83db7fcaab9369ece39e"
+          }
+        },
+        {
+          "client_id": "374854207302-2kb4fdm160b17r8i7ecq8m4js2h677sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByP5p5wdc84xfNNgl-pEr-1n5fNkWa5vc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374854207302-2kb4fdm160b17r8i7ecq8m4js2h677sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
